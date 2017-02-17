@@ -22,5 +22,5 @@ A demo video on youtube: [https://www.youtube.com/watch?v=e1kXTFIHmug](https://w
 1. Download [Simple Joystick Package](https://github.com/tim-hub/Simple_Joystick_Unity/raw/master/simpleJoystick.unitypackage)
 2. See the doc file in it and see the sample scene.
 
-## Advanced
-You can watch the tutorial of this plugin for how to make this kind of joystick. (working on it)
+## Tutorial
+You can watch [the tutorial of this plugin](https://www.youtube.com/watch?v=8MUsx6qylqU&list=PLuSJugaBgnaTO1C3qsFKw5_vUlXWRJyU7) for how to make this kind of joystick. 
